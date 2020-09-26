@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="100427" started-at="2020-09-26T13:15:45 IST" finished-at="2020-09-26T13:17:25 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="100427" started-at="2020-09-26T13:15:45 IST" finished-at="2020-09-26T13:17:25 IST">
+      <class name="Academy.Smallcase.Amazon">
+        <test-method status="PASS" signature="intialisedrive()[pri:0, instance:Academy.Smallcase.Amazon@6eda5c9]" name="intialisedrive" is-config="true" duration-ms="5809" started-at="2020-09-26T13:15:45 IST" finished-at="2020-09-26T13:15:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialisedrive -->
+        <test-method status="PASS" signature="homepageNavigation()[pri:0, instance:Academy.Smallcase.Amazon@6eda5c9]" name="homepageNavigation" duration-ms="94090" started-at="2020-09-26T13:15:51 IST" finished-at="2020-09-26T13:17:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepageNavigation -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Academy.Smallcase.Amazon@6eda5c9]" name="teardown" is-config="true" duration-ms="305" started-at="2020-09-26T13:17:25 IST" finished-at="2020-09-26T13:17:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Academy.Smallcase.Amazon -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
